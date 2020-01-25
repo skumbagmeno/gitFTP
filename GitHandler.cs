@@ -44,7 +44,7 @@ namespace gitFTP {
                 }
             }
             if (commitTo == null) {
-                MessageBox.Show("Commit target non valido!");
+                MessageBox.Show("Commit target non valido! ");
                 return null;
             }
             return this.repository.Diff.Compare<TreeChanges>(commitFrom.Tree, commitTo.Tree);
