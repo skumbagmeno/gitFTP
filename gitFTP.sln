@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitFTP", "gitFTP.csproj", "{2605D8B6-A964-4D3E-BC17-46B01AC42751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2605D8B6-A964-4D3E-BC17-46B01AC42751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2605D8B6-A964-4D3E-BC17-46B01AC42751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2605D8B6-A964-4D3E-BC17-46B01AC42751}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2605D8B6-A964-4D3E-BC17-46B01AC42751}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86810FA4-65AC-4F95-91BF-8094313A77A9}
+	EndGlobalSection
+EndGlobal
